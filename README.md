@@ -144,7 +144,7 @@ Elimina il task specificato.
 
 ## 👤 Autore
 
-- [Tuo Nome] (https://github.com/tuo-utente)
+- [Glenda Palumbo] (https://github.com/Glenda-pal)
 
 ---
 
